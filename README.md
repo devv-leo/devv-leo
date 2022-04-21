@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**devv-leo/devv-leo** is a ✨ _special_ ✨ `upcoming` developer. Here's a little bit of him on his GitHub profile.
+**/devv-leo** is a ✨ _special_ ✨ `upcoming` developer. Here's a little bit of him on his GitHub profile.
 
 Here are some ideas to get you a picture of me 💃:
 
