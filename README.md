@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- 🦁 **/devv-leo** is a ✨ _special_ ✨ `upcoming` developer. -->
-
-Here are some ideas to get you a picture of devv-leo 💃:
+ 
+<!-- Here are some ideas to get you a picture of devv-leo 💃: -->
 
 - 🌱 I’m currently learning C programming...
 - 👯 I’m looking to collaborate on Front-end Web development...
